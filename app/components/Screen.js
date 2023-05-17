@@ -10,6 +10,8 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "color.APP_BG",
     paddingTop: Constants.currentHeight,
+    marginTop: 20,
+    marginBottom:20,
   },
 });
 
